@@ -1,0 +1,1 @@
+Repro for a regression with Gradle 7.6.1 and gradle-consistent-versions.
